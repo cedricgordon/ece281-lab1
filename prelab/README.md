@@ -27,6 +27,7 @@
 
 $$
 Y = A'B'C'D + A'B'CD + A'BC'D + A'BCD + AB'C'D' + AB'CD' + ABC'D'
+Y = A'D + AB'D' + AC'D' (simplified)
 $$
 
 ### Digital Simulations
